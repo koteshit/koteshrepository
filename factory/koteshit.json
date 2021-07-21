@@ -1,0 +1,9 @@
+{
+	"name": "koteshit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73082113-6a3b-408e-bbf3-2c172c5cf053",
+		"tenantId": "4b549046-bfbc-4cb0-b37d-e125c28a8a0f"
+	}
+}
